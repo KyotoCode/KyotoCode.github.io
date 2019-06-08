@@ -1,0 +1,44 @@
+img:not(#logo){
+    float: left;
+    width: 30%;
+    margin: 1.66%;
+}
+#logo{
+    margin-left: 1.66%;
+    margin-top: 1.66%;
+    border-bottom: 2px solid #f1f1f1;
+    width: 30%;
+    padding-bottom: 20px;
+}
+h1{
+    float: right;
+    margin-right: 1.66%;
+    margin-top: 3.22%;
+    font-family: 'Roboto', sans-serif;
+}
+#skills{
+    border-bottom: 2px solid rgb(190, 190, 190);
+}
+#about{
+    border-bottom: 2px solid rgb(190, 190, 190);
+}
+#cv{
+    border-bottom: 2px solid rgb(190, 190, 190);
+}
+#contact{
+    border-bottom: 2px solid rgb(190, 190, 190);
+}
+
+
+#skills:hover{
+    color: rgb(190, 190, 190);
+}
+#about:hover{
+    color: rgb(190, 190, 190);
+}
+#cv:hover{
+    color: rgb(190, 190, 190);
+}
+#contact:hover{
+    color: rgb(190, 190, 190);
+}
